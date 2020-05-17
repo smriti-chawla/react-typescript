@@ -33,12 +33,12 @@ $ npm i typescript -D
 # Install types for React and ReactDOM
 $ npm i -D @types/react @types/react-dom
 
-$ add  in package.json
-"scripts": {
+ # add  in package.json
+$ scripts": {
     "dev": "parcel src/index.html"
 },
 
 
 
-Our project can be ran with $ npm run dev and accessed at http://localhost:1234.
+Our project can be run with $ npm run dev and accessed at http://localhost:1234.
 
